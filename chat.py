@@ -11,7 +11,7 @@ COLLECTION_NAME = "rag_documents"
 
 EMBEDDING_MODEL_NAME = "BAAI/bge-m3"
 
-GROQ_MODEL = "llama-3.3-70b-versatile"
+GROQ_MODEL = "openai/gpt-oss-20b"
 
 TOP_K = 4
 
